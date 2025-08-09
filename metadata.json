@@ -1,0 +1,10 @@
+{
+  "name": "Pupusya Coin",
+  "symbol": "PPS",
+  "description": "The Pupusya meme token is for fans and fun. No value, just fun.",
+  "image": "https://github.com/pablitocrypto-web/memcoins/blob/main/pupusya.png",
+  "external_url": "https://pupusya.fun",
+  "extensions": {
+    "twitter": "https://x.com/pupusya_coin"
+  }
+}
